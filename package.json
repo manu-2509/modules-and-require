@@ -1,0 +1,20 @@
+{
+  "name": "modules-and-require",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manu-2509/modules-and-require.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manu-2509/modules-and-require/issues"
+  },
+  "homepage": "https://github.com/manu-2509/modules-and-require#readme"
+}
